@@ -14,3 +14,32 @@
 
 ## Estructura de la web
 
+![image](https://user-images.githubusercontent.com/99285135/160213253-008d670f-3db0-45cf-b541-7e5df628d57b.png)
+
+![image](https://user-images.githubusercontent.com/99285135/160213284-62af525e-269a-41d9-b50a-0bd285d558f3.png)
+
+## Cartografia
+
+![equips que han jugat a primera més petits](https://user-images.githubusercontent.com/99285135/160214368-bdb9e713-aaf6-4aa1-a9d8-f9e154924ce7.png)
+
+## Dificultats i millores
+
+Per a realitzar, aquest petit esborrany de la meva pàgina web, m'he trobat, amb diferents dificultats, com la d'entendre el que realment era el read.me, el gitignore i alhora de descarregar el git cola, també al inkscape, m'ha costat mantenir la mateixa mida per a totes les imatges i pel que fa, a les millores, crec que puc millor el disseny dels mapes, però en aquest petit esborrany, el meu objectiu inicialment, es que el profesor entengui la web que vull fer i que tingui una idea de com seria la informació cartogràfica.
+
+## Índex
+
+```mermaid
+graph TD;
+    La Liga Curiosities--> De que tracta la meva web?
+    La Liga Curiosities--> Mapa de les poblacions de menys de 60.000 habitants que han tingut un equip a primera divisió;
+    Mapa de les poblacions de menys de 60.000 habitants que han tingut un equip a primera divisió--> Història dels equips;
+    La Liga Curiosities--> Mapa dels equips que han guanyat un títol nacional profesional;
+    Mapa dels equips que han guanyat un títol nacional profesional--> Història dels equips;
+    La Liga Curiosities--> Mapa dels equips que han jugat alguna vegada competició europea;
+    Mapa dels equips que han jugat alguna vegada competició europea--> Història dels equips;
+    La Liga Curiosities--> Mapa dels equips que han descendit més vegades de primera divisió;
+    Mapa dels equips que han descendit més vegades de primera divisió--> Història dels equips;
+    La Liga Curiosities--> Mapa dels equips que han aconseguit menys punts a primera divisió;
+    Mapa dels equips que han aconseguit menys punts a primera divisió--> Història dels equips;
+    ```
+    
