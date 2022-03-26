@@ -28,18 +28,26 @@ Per a realitzar, aquest petit esborrany de la meva pàgina web, m'he trobat, amb
 
 ## Índex
 
-```mermaid
-graph TD;
-    La Liga Curiosities--> De que tracta la meva web?
-    La Liga Curiosities--> Mapa de les poblacions de menys de 60.000 habitants que han tingut un equip a primera divisió;
-    Mapa de les poblacions de menys de 60.000 habitants que han tingut un equip a primera divisió--> Història dels equips;
-    La Liga Curiosities--> Mapa dels equips que han guanyat un títol nacional profesional;
-    Mapa dels equips que han guanyat un títol nacional profesional--> Història dels equips;
-    La Liga Curiosities--> Mapa dels equips que han jugat alguna vegada competició europea;
-    Mapa dels equips que han jugat alguna vegada competició europea--> Història dels equips;
-    La Liga Curiosities--> Mapa dels equips que han descendit més vegades de primera divisió;
-    Mapa dels equips que han descendit més vegades de primera divisió--> Història dels equips;
-    La Liga Curiosities--> Mapa dels equips que han aconseguit menys punts a primera divisió;
-    Mapa dels equips que han aconseguit menys punts a primera divisió--> Història dels equips;
-    ```
+* De que tracta la meva web;
+    
+### 1 Mapa de les poblacions de menys de 60.000 habitants que han tingut un equip a primera divisió
+    
+* Història dels equips del mapa 1
+    
+### 2 Mapa dels equips que han guanyat un títol nacional profesional
+    
+ * Història dels equips del mapa 2
+    
+ ### 3 Mapa dels equips que han jugat alguna vegada competició europea;
+    
+* Història dels equips del mapa 3
+    
+### 4 Mapa dels equips que han descendit més vegades de primera divisió;
+    
+* Història dels equips del mapa 4
+    
+### 5 Mapa dels equips que han aconseguit menys punts a primera divisió;
+    
+* Història dels equips del mapa 5
+   
     
